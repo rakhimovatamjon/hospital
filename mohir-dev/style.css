@@ -1,0 +1,232 @@
+*{
+                      margin: 0;
+                      padding: 0;
+                      box-sizing: border-box;
+}
+
+.containr{
+                      width: 90vw;
+                      height: 1960px;
+                      margin: 5vh auto;
+                      /* border: 2px solid silver; */
+                      background-color:#FFFFFF;
+                      
+}
+.contener{
+                      width: 1440px;
+                      height: 228px;
+                      padding-top: -47px;
+                     
+                      background-color: #FFFFFF;
+                      
+}
+.logo{
+                      width: 197px;
+                      height: 83.8px;
+                      padding-top: 50px;
+                      margin-left: 102px;
+                      color: #222222;
+}
+.bio{
+                      width: 90.22px;
+                      height: 36.84px;
+                      padding-top: -119px;
+                      margin-left: 92.82px;
+                      color: #F5F5F5;
+}
+.navbar{
+                      width: 605px;
+                      height: 24px;
+                      padding-top: 23px;
+                      margin-left: 558px;
+                      gap: 5px;
+                      color: #222222;
+                     
+}
+a{
+                      color: #222222;
+                      text-decoration: none;
+}
+a:hover{
+                      color: #DE2E54;
+}
+button{
+                      width: 189px;
+                      height: 47px;
+                      border-radius: 8px;
+                      border: 2px;
+                      padding: 12px 24px 12px 24px;
+                      margin-left: 1244px;
+                      background-color: #DE2E54;
+                      color:  #FFFFFF;
+}
+.container2{
+                      width: 1440px;
+                      height: 633px;
+                      padding-top: 88px;
+                      background-color: #0EB4C1;
+                      display: flex;
+}
+.cotext{
+                      width: 500px;
+                      height: 293px;
+                      padding-top: -21px;
+                      margin-left: 90px;
+                      border-radius: 8px;
+}
+.tabi{
+                      width: 500px;
+                      height: 86px;
+                      padding-top: -148px;
+                      margin-left: 60px;
+                      font-weight: 700px;
+                      font-size: 36px;
+                      line-height: 43.2px;
+                      color: #FFFFFF;
+}
+p{
+                      width: 440px;
+                      height: 108px;
+                      padding-top: 90px;
+                      margin-left: 60px;
+                      font-weight: 400px;
+                      font-size: 18px;
+                      line-height: 27px;
+                      color: #FFFFFF;
+}
+.qabul{
+                      width: 141px;
+                      height: 59px;
+                      margin-top: 92px;                      
+                      margin-left: 60px;
+                      font-weight: 700px;
+                      font-size: 15px;
+                      line-height: 22.5px;
+                      letter-spacing: 2px;
+                      color: #FFFFFF;
+}
+.doctor{
+                      width: 423px;
+                      height: 504px;
+                      padding-top: -57px;
+                      margin-left: 307px;
+}
+.xizmat{
+                      width: 133px;
+                      height: 43px;
+                      padding-top: 101px;
+                      margin-left: 573px;
+                      font-weight: 700px;
+                      font-size: 36px;
+                      line-height: 43.2px;
+                      color: #000000;
+}
+.cards{
+                      width: 864px;
+                      height: 1040px;
+                      padding-top: 100px;
+                      margin-left: 188px;
+                      gap: 80px;
+}
+.card-title{
+                      margin-left: 68px;
+}
+.card-text{
+                      color: #444444;
+                      margin-left: 68px;
+                      padding-top: 8px;
+}
+.but{
+                      padding-top: 311px;
+                      margin-left: 618px;
+}
+.yoz{
+                      width: 189px;
+                      height: 47px;
+                      padding-top: -19px;
+                      margin-left: 76px;
+                      border-radius: 8px;
+                      border: 2px;
+                     
+                      background-color:#DE2E54;
+}
+.oxiri{
+                      width: 1440px;
+                      height: 253px;
+                      padding-top: 57px;
+                      margin-left: 1px;
+                      background-color: #0EB4C1;
+}
+.ck{
+                      width: 365px;
+                      height: 43px;
+                      padding-top: -118px;
+                      margin-left: 538px;
+                      font-weight: 700px;
+                      font-size: 36px;
+                      line-height: 43.2px;
+                      color: #FFFFFF;
+                      display: flex;
+}
+.tel{
+                      width: 194px;
+                      height: 49px;
+                      padding-top: -66px;
+                      margin-left: 297px;
+                      border-radius: 8px;
+                      border: 2px solid #FFFFFF;
+                      color:  #FFFFFF;
+                      background: none;
+}
+.tem{
+                      width: 194px;
+                      height: 49px;
+                      padding-top: 1px;
+                      margin-left: 397px;
+                      border-radius: 8px;
+                      border: 2px solid #FFFFFF;
+                      color:  #FFFFFF;
+                      background: none;
+}
+footer{
+                      width: 1440px;
+                      height: 111.94px;
+                      padding-top: 10px;
+                      background-color: #222222;
+}
+.fud{
+                      width: 1100px;
+                      height: 49.94px;
+                      justify-content: center;
+}
+.loogo{
+                      width: 185px;
+                      height: 49.94px;
+                      padding-top: 21px;
+                      margin-left: 118px;
+                      display: flex;
+}
+h6{
+                      width: 119px;
+                      height: 33px;
+                      padding-top: -31px;
+                      margin-left:62px;
+                      font-weight: 600px;
+                      font-size: 24px;
+                      line-height: 32.68px;
+                      color: #FFFFFF;
+}
+.navbarcha{
+                      width: 497px;
+                      height: 21px;
+                      padding-top: -31px;
+                      margin-left: 855px;
+                      gap: 32px;    
+                      letter-spacing: 4px;        
+                      color: #FFFFFF;
+                      
+}
+.aa{
+                      color: #FFFFFF;
+                      margin: 4px;
+}
